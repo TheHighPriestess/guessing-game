@@ -56,7 +56,6 @@ nav {
 }
 
 nav ul li {
-	text-transform: uppercase;
 	font-weight: 700;
 	font-size: 1.2em;
 }
@@ -75,7 +74,7 @@ nav a {
 }
 
 h1 {
-	font-size: 4em;
+	font-size: 3em;
 	padding: 0.8em;
 	color: #212121;
 	font-family: 'Fjalla One', sans-serif;
@@ -113,7 +112,7 @@ h1 {
 	padding: 0.4em;
 	text-align: center;
 	font-size: 2.4em;
-	font-weight: 300;
+	font-weight: 700;
 	opacity: 0.8;
 	background: rgba(0,0,0,0.1);
 	border-radius: 3px 3px 0 0;
@@ -147,7 +146,7 @@ h1 {
 }
 
 .content > div ul li strong{
-	text-decoration: underline;
+	font-weight: bold;
 }
 
 .content > div a {
